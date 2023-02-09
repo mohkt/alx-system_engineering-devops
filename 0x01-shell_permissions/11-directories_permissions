@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r u=rwx,go=rx dir0
+chmod -r 755 dir0
